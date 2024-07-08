@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Here is some UI and work shown in this repository
+#
+[Live Preview Project](https://next-redux-crud-nu.vercel.app/)
+#
+## Project Details
+#
+Employee information add has been worked on this repository. Using the data get method from the backend to show in UI and using the data post method from the user to send backend data and show new data in UI. In this repository project, the user can filter by gender or search by name to find employees.
+#
+### `Technology Use`
+#
+1. Next JS
+2. Redux
+3. Redux Thunk
+4. React Paginate
+5. React Toastify
+6. React Hooks
+7. React Dom
+8. Axios
+9. RESTful APIs
+10. MockAPI.io
+11. HTML5
+12. Tailwind CSS
+13. DaisyUI
+14. Font Awesome
 
-## Getting Started
+#
+### `Project Deploy`
+#
 
-First, run the development server:
+- Vercel
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#
+### `Project Pages`
+#
+1. Employee List Page
+2. Employee Add Page
+3. Employee Update Page
+4. Error Page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#
+### `Employee List Page`
+#
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/DeveloperOmarFaruk/next-redux-crud/assets/75971859/bd71fc04-0459-4df3-89d4-f284ff5284fc)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#
+### `Employee Add Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/next-redux-crud/assets/75971859/9f74141b-4aa5-4b36-b7c5-8bc49f42c439)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#
+### `Employee Update Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/next-redux-crud/assets/75971859/2391caec-d038-4919-8a50-9cac97357c9e)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+#
+### `Error Page`
+#
+![image](https://github.com/DeveloperOmarFaruk/next-redux-crud/assets/75971859/4177b2ab-570c-4953-83ef-0548fe39eac3)
+
+
+#
