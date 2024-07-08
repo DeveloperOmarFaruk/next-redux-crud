@@ -4,18 +4,17 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouse } from "@fortawesome/free-solid-svg-icons";
 import Image from "next/image";
 import Link from "next/link";
-import "react-toastify/dist/ReactToastify.css";
 
-const page = () => {
+const error = () => {
   return (
     <>
       <div className="m-16  text-center mx-auto">
         <h3 className="text-2xl font-bold text-emerald-600 mb-8">
-          Page Not Found
+          Something Is Wrong !
         </h3>
 
         <Image
-          src="https://internetdevels.com/sites/default/files/public/blog_preview/404_page_cover.jpg"
+          src="https://leadgenera.com/wp-content/uploads/2023/05/1623438_Banner_DemystifyingErrorCode500_042423-1.png"
           width={500}
           height={500}
           alt="error-picture"
@@ -32,4 +31,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default error;

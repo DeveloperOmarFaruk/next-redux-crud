@@ -13,7 +13,6 @@ const EmployeeUpdate = () => {
   const id = useParams();
   const URL = `${process.env.REACT_APP_URL}`;
   const dispatch = useDispatch();
-  console.log(URL);
 
   // Employee Data Load Function
   useEffect(() => {
