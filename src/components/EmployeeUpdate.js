@@ -11,7 +11,6 @@ const EmployeeUpdate = () => {
   const router = useRouter();
   const [updateEmployeeData, setUpdateEmployeeData] = useState();
   const id = useParams();
-  // const URL = `https://6679422c18a459f6394edd18.mockapi.io/crud`;
   const URL = `${process.env.REACT_APP_URL}`;
   const dispatch = useDispatch();
   console.log(URL);

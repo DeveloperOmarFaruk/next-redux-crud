@@ -7,7 +7,6 @@ import {
 } from "./types";
 import { toast } from "react-toastify";
 
-// const URL = `https://6679422c18a459f6394edd18.mockapi.io/crud`;
 const URL = `${process.env.REACT_APP_URL}`;
 
 export const fetchEmployees = () => async (dispatch) => {
